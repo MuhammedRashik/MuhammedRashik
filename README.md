@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedrashik" alt="muhammedrashik" /></a> </p>
 
-- 🔭 I’m currently working on **Meta media**
 
-- 🌱 I’m currently learning **Next js ,clean architecture,TypeScript**
 
-- 📫 How to reach me **razikrashik8@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
